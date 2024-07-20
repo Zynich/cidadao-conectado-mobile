@@ -1,0 +1,8 @@
+{
+  "name": "Cidad\u00e3o Conectado Mobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "cf3beca3"
+}
